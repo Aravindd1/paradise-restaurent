@@ -20,8 +20,9 @@ This is a web based application developed for a restaurant named PARADISE.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
-### Home page -   
-![](img/ss_home.png)
+### Home ![Screenshot 2022-02-15 120321](https://user-images.githubusercontent.com/41895088/154005901-3692d37c-b302-4fce-b626-9e664c1de0ce.jpg)
+page -   
+
 ### Team page -
 ![](img/ss_team.png)
 ### Contact page -
