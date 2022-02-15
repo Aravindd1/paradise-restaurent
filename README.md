@@ -20,17 +20,30 @@ This is a web based application developed for a restaurant named PARADISE.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
-### Home ![Screenshot 2022-02-15 120321](https://user-images.githubusercontent.com/41895088/154005901-3692d37c-b302-4fce-b626-9e664c1de0ce.jpg)
-page -   
+### Home page -![Screenshot 2022-02-15 120321](https://user-images.githubusercontent.com/41895088/154005901-3692d37c-b302-4fce-b626-9e664c1de0ce.jpg)
+   
 
 ### Team page -
-![](img/ss_team.png)
+![Screenshot 2022-02-15 120724](https://user-images.githubusercontent.com/41895088/154006328-778a9a8d-c400-4d85-bdac-90786b681452.jpg)
+
+
+
 ### Contact page -
-![](img/ss_contact.png)
+
+![Screenshot 2022-02-15 121047](https://user-images.githubusercontent.com/41895088/154006746-f8c9f37b-a0a2-4f00-bf55-2e8cdb97d53e.jpg)
+
+
+
+
 ### Menu Page -
-![](img/ss_menu.png)
+![Screenshot 2022-02-15 120837](https://user-images.githubusercontent.com/41895088/154006495-f98fc3b2-aed1-446f-b8e3-15715b9a0834.jpg)
+
+
 ### About Us Page -
-![](img/ss_about.png)
+
+![Screenshot 2022-02-15 120612](https://user-images.githubusercontent.com/41895088/154006182-6e92281b-f9fe-43e0-84fa-72f9b2e795a0.jpg)
+
+
 
 ## Tech Stack 💻
 
